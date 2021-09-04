@@ -25,3 +25,4 @@ run {
 
 application {
     mainClass = "Beers-ex02.exercise02.Solution02"
+}
